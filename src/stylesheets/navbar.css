@@ -1,0 +1,12 @@
+.uk-navbar-container{
+    background-color: #22264b !important;
+}
+
+.uk-link, a {
+    color:white;
+    text-decoration: none !important
+}
+
+.uk-link, a :hover{
+    color: #d8d8d8
+}
