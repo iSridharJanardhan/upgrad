@@ -1,12 +1,22 @@
-.uk-navbar-container{
-    background-color: #22264b !important;
+.uk-navbar-container {
+  background-color: #22264b !important;
 }
 
-.uk-link, a {
-    color:white;
-    text-decoration: none !important
+.uk-link,
+a {
+  color: white;
+  text-decoration: none !important;
 }
 
-.uk-link, a :hover{
-    color: #d8d8d8
+.uk-link,
+a :hover {
+  color: #d8d8d8;
+}
+
+.fas {
+  color: white;
+  margin-right: 2%;
+}
+.uk-navbar-nav > li {
+  width: 90%;
 }

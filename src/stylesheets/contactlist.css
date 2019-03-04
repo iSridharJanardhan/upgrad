@@ -1,4 +1,30 @@
-.container{
-    width:50%;
-    margin:auto
+.container {
+  width: 50%;
+  margin: auto;
+  margin-top: 4%;
+}
+
+.th {
+  text-align: center !important;
+}
+
+.uk-table {
+  margin-top: 2%;
+}
+
+.uk-button:hover {
+  background-color: white !important;
+  color: black;
+}
+
+.fa-user-times:hover {
+  color: black;
+}
+
+.avatar {
+  border: 1px solid black;
+  height: 30px;
+  width: 30px;
+  border-radius: 30px;
+  margin: auto;
 }
